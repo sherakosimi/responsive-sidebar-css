@@ -1,7 +1,7 @@
 
 #  Responsive Sidebar - ReactJS, CSS
 
-A showcase of the responsive sidebar with header using CSS and ReactJS. There is no functionality implemented except of the design of the UI components. 
+A showcase of the responsive sidebar with header using CSS and ReactJS. There is no functionality implemented except of the design of the UI components. A web project deployed with **Heroku**.
 
 **Link** = [https://sidebar-css.herokuapp.com/](https://sidebar-css.herokuapp.com/)
 
