@@ -2,7 +2,8 @@
 #  Responsive Sidebar - ReactJS, CSS
 
 A showcase of the responsive sidebar with header using CSS and ReactJS. There is no functionality implemented except of the design of the UI components. 
- 
+
+**Link** = [https://sidebar-css.herokuapp.com/](https://sidebar-css.herokuapp.com/)
 
 *Built by **SHERA KOSIMI** Copyright © by Shera Kosimi for his personal purposes. You are 100% allowed to use this webapp for both personal and commercial use, but NOT to claim it as your own design and work. A credit to the original author, Shera Kosimi, is of course highly appreciated!*   
 
